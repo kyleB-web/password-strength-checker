@@ -16,4 +16,4 @@ if re.search(r"[0-9]" , password):
     elif score <= 4:
       print("password strength: Medium")
     else:
-      print("password strength: Strong")\
+      print("password strength: Strong")
